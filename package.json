@@ -1,0 +1,20 @@
+{
+  "name": "movider-sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK for Movider SMS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdk",
+    "sms-gateway",
+    "movider"
+  ],
+  "author": "Movider Dev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "querystring": "^0.2.0"
+  }
+}
