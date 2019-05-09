@@ -108,7 +108,7 @@ smsClient.requestOtp({
 
 ## Verify OTP
 ``` 
-smsClient.requestOtp({
+smsClient.verifyOtp({
 
         "request_id": "VtznKfqHUjmDCysZyOZDQX",
         "code": "123456"
