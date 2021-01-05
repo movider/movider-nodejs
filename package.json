@@ -14,7 +14,7 @@
   "author": "Movider Dev",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "querystring": "^0.2.0"
   }
 }
